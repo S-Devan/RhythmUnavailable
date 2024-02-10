@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bh2fcwtfobwnk"
+path="res://.godot/imported/Generic and horribly mixed metal.mp3-ff2113a375e2860e484c499c010e6121.mp3str"
+
+[deps]
+
+source_file="res://Audio/Music/Generic and horribly mixed metal.mp3"
+dest_files=["res://.godot/imported/Generic and horribly mixed metal.mp3-ff2113a375e2860e484c499c010e6121.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c1dx2o2rdiq1i"
+path="res://.godot/imported/Hyper Fuzzy.mp3-477f662f9d0425be973f85a1baedaf33.mp3str"
+
+[deps]
+
+source_file="res://Audio/Music/Hyper Fuzzy.mp3"
+dest_files=["res://.godot/imported/Hyper Fuzzy.mp3-477f662f9d0425be973f85a1baedaf33.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

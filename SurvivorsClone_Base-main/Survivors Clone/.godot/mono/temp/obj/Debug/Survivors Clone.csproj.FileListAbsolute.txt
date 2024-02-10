@@ -1,0 +1,17 @@
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\bin\Debug\Survivors Clone.deps.json
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\bin\Debug\Survivors Clone.runtimeconfig.json
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\bin\Debug\Survivors Clone.dll
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\bin\Debug\Survivors Clone.pdb
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\bin\Debug\GodotSharp.dll
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\Survivors Clone.csproj.AssemblyReference.cache
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\Survivors Clone.GeneratedMSBuildEditorConfig.editorconfig
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\Survivors Clone.AssemblyInfoInputs.cache
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\Survivors Clone.AssemblyInfo.cs
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\Survivors Clone.csproj.CoreCompileInputs.cache
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\Survivors Clone.csproj.CopyComplete
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\Survivors Clone.dll
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\refint\Survivors Clone.dll
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\Survivors Clone.pdb
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\Survivors Clone.genruntimeconfig.cache
+E:\January Gamejam\SurvivorsClone_Base-main\Survivors Clone\.godot\mono\temp\obj\Debug\ref\Survivors Clone.dll
