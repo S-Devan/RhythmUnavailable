@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://cl3nun0woeyep"]
+
+[ext_resource type="Texture2D" uid="uid://bx86wpalidotk" path="res://Textures/stoneGround32x32.png" id="1_ve6yp"]
+[ext_resource type="PackedScene" uid="uid://ceoyi0qc364vj" path="res://Player/player.tscn" id="2_l8two"]
+[ext_resource type="PackedScene" uid="uid://c7ej0c8ennpev" path="res://Enemy/enemy.tscn" id="3_3s5fi"]
+
+[node name="World" type="Node2D"]
+
+[node name="BackgroundSprite" type="Sprite2D" parent="."]
+texture_filter = 2
+texture_repeat = 2
+texture = ExtResource("1_ve6yp")
+region_enabled = true
+region_rect = Rect2(-4000, -4000, 4000, 4000)
+
+[node name="Player" parent="BackgroundSprite" instance=ExtResource("2_l8two")]
+
+[node name="EnemyKolbold" parent="." instance=ExtResource("3_3s5fi")]
+position = Vector2(415, -132)
