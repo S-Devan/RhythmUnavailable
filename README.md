@@ -1,5 +1,6 @@
-# RhythmWithoutReason
-45 Day Game Jame Project
+# Rhythm Unavailable
+~~45 Day Game Jame Project~~ [Formerly]
+
 
 A Vampire Survivors Clone Gameplay-Wise
 
